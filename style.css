@@ -5,3 +5,27 @@
     border-radius: 340px;
     width: 60%;
 }
+.color{
+   background-color: #E76F51;
+   color: white;
+}
+.bike-price>h1{
+    font-family: var;
+}
+.card-body-1{
+    background-color:rgba( rgb(226, 226, 235), alpha);
+    border-radius: 170px;
+    border-top-left-radius: 170px;
+    
+}
+.text-color{
+color: #E0E0E0;
+}
+
+.bottom{
+    border: 1px solid #E76F51;
+    color:#E76F51 ;
+}
+ .gray{
+    color: #ede5e5;
+}
